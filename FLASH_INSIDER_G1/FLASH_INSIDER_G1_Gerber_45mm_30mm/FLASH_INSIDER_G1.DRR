@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NC Drill File Report For :  E:\Projects_HW\FLASH_INSIDER_G1\FLASH_INSIDER_G1.PCB   7-Mar-2017   21:51:51
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : E:\Projects_HW\FLASH_INSIDER_G1\FLASH_INSIDER_G1.TXT
+EIA File   : E:\Projects_HW\FLASH_INSIDER_G1\FLASH_INSIDER_G1.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.762mm (30mil)          23               151.99 mm (5.98 Inch)
+T2        1.016mm (40mil)          65               241.63 mm (9.51 Inch)
+---------------------------------------------------------------------------
+Totals                             88               393.63 mm (15.50 Inch)
+
+Total Processing Time : 00:00:00

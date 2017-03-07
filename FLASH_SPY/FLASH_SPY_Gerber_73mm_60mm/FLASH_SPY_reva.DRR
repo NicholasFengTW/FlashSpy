@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NC Drill File Report For :  E:\Projects_HW\FLASH_SPY\FLASH_SPY_reva.PCB   31-Dec-2016  13:36:23
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : E:\Projects_HW\FLASH_SPY\FLASH_SPY_reva.TXT
+EIA File   : E:\Projects_HW\FLASH_SPY\FLASH_SPY_reva.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.762mm (30mil)          53               479.85 mm (18.89 Inch)
+T2        1.016mm (40mil)          206              860.19 mm (33.87 Inch)
+T3        2.032mm (80mil)          2                66.03 mm (2.60 Inch)
+T4        3.556mm (140mil)         4                262.37 mm (10.33 Inch)
+---------------------------------------------------------------------------
+Totals                             265              1668.43 mm (65.69 Inch)
+
+Total Processing Time : 00:00:00
